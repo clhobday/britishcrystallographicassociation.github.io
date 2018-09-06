@@ -26,9 +26,12 @@ github_username:  britcryst
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: mmistakes/minimal-mistakes
+
 
 search: true
 
