@@ -1,0 +1,35 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Membership"
+    url: /membership/
+  - title: "News"
+    url: /crystallography-news/
+  - title: "Prizes"
+    url: /prizes/
+  - title: "Education"
+    url: /education/
+  - title: "Contacts"
+    url: /contacts/
+  - title: "Spring meetings"
+    url: /spring-meetings/
+
+
+about:
+  - title: "About the BCA"
+    url: /about/
+  - title: "Council"
+    url: /about/council/
+  - title: "Statutes and by-laws"
+    url: /about/statutes/
+  - title: "Equailty, Diversity and Inclusivity Policy"
+    url: /about/edi/
+  - title: "Previous councils"
+    url: /about/previous-councils/
+  - title: "BCA logo"
+    url: /about/logo/
+
+
+
+
