@@ -180,3 +180,49 @@ Notes: Dates within ( ) indicate year due for re-election or retirement
 * Dr Richard Cooper, University of Oxford (Website Editor)
 * BCA Administrative Officer – for contact details see the BCA Administrative Office contact page.
 
+## BCA Council Officers 1982 - 2010
+
+### Presidents
+2009-2012 Prof. Elspeth Garman
+2006-2009 Prof. Paul Raithby
+2003-2006 Prof. Chick Wilson
+2000-2003 Prof. Chris Gilmore
+1996-2000 Prof. Michael Glazer
+1992-1996 Prof. Judith Howard
+1990-1992 Dr. Bob Diamond
+1988-1990 Prof. Michael Woolfson
+1984-1988 Prof. David M Blow
+1982-1984 Prof. David Phillips
+
+### Vice-Presidents:
+2007-2010 Prof. Sandy Blake
+2004-2007 Prof. John Finney
+2001-2004 Prof. Paul Fewster
+1997-2001 Dr Frank Allen
+1993-1997 Prof. Bruce Forsyth
+1989-1993 Prof. John Helliwell
+1985-1989 Dr Brian J Isherwood
+1983-1985 Prof. Durward W J Cruickshank
+1982-1983 Prof. Dorothy Hodgkin
+
+### Secretaries:
+
+2007-2012 Dr Georgina Rosair
+2001-2007 Dr Christine Cardin
+1997-2001 Dr Hilary Muirhead
+1995-1997 Dr A. Moreton Moore
+1991-1995 Dr Arnold Smith
+1987-1991 Dr Judith Howard
+1985-1987 Dr R W H (Sam) Small
+1982-1985 Dr Andrzej C Skapski
+
+### Treasurers:
+2008-2011 Dr Harry Powell
+2005-2008 Dr Sheila E. B. Gould
+2000-2005 Mr David Taylor
+1996-2000 Dr Steve Maginn
+1992-1996 Dr Anne Bloomer
+1988-1992 Dr J Ian Langford
+1984-1988 Dr Ray Hine
+1982-1984 Prof. Charles A Taylor
+

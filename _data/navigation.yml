@@ -10,8 +10,6 @@ main:
     url: /prizes/
   - title: "Education"
     url: /education/
-  - title: "Contacts"
-    url: /contacts/
   - title: "Spring meetings"
     url: /spring-meetings/
 
@@ -19,6 +17,8 @@ main:
 about:
   - title: "About the BCA"
     url: /about/
+  - title: "Contact Information"
+    url: /about/contact/
   - title: "Council"
     url: /about/council/
   - title: "Statutes and by-laws"
@@ -29,6 +29,30 @@ about:
     url: /about/previous-councils/
   - title: "BCA logo"
     url: /about/logo/
+
+membership:
+  - title: "Membership"
+    url: /membership/
+  - title: "Corporate membership"
+    url: /membership/corporate/
+  - title: "Honorary membership"
+    url: /membership/honorary/
+  - title: "Founder members"
+    url: /membership/founders/ 
+  - title: "Members area"
+    url: /membership/member-login/
+
+
+prizes: 
+  - title: "BCA Prizes"
+    url: /prizes/
+  - title: "Group Prizes"
+    url: /prizes/groups/
+  - title: "Corporate Member Prizes"
+    url: /prizes/corporate/
+  - title: "Bursaries"
+    url: /prizes/bursaries
+
 
 
 
