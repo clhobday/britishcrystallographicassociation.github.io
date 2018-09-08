@@ -43,6 +43,15 @@ membership:
     url: /membership/member-login/
 
 
+prizes: 
+  - title: "BCA Prizes"
+    url: /prizes/
+  - title: "Group Prizes"
+    url: /prizes/groups/
+  - title: "Corporate Member Prizes"
+    url: /prizes/corporate/
+  - title: "Bursaries"
+    url: /prizes/bursaries
 
 
 
