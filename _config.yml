@@ -37,7 +37,7 @@ remote_theme: mmistakes/minimal-mistakes
 search: true
 
 include: ["_pages"]
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
 
 category_archive:
