@@ -30,6 +30,7 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-feed
 
 remote_theme: mmistakes/minimal-mistakes
 
