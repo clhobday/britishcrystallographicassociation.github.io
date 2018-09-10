@@ -1,7 +1,7 @@
 ---
    title: "BCA Corporate Member Prizes"
    layout: single
-   permalink: /prizes/corporate
+   permalink: /prizes/corporate/
    sidebar:
      nav: "prizes"
 ---
