@@ -1,7 +1,7 @@
 ---
    title: "BCA Group Prizes"
    layout: single
-   permalink: /prizes/groups
+   permalink: /prizes/groups/
    sidebar:
      nav: "prizes"
    toc: true
