@@ -8,7 +8,7 @@
 for f in *.pdf; do convert -thumbnail x150 -background white -alpha remove "$f"[0] "${f%.pdf}.png"; done
 -->
 
-Crystallography News is published quarterly by the British Crystallographic Association and is free to members. Back issues appear on this website approximately 6-12 months after publication. Members can access restricted copies in the [members area]({{ site.url }}{{ site.baseurl }}/member-login) with their username and password.
+Crystallography News is published quarterly by the British Crystallographic Association and is free to members. Back issues appear on this website approximately 6-12 months after publication. Members can access restricted copies in the [members area]({{ site.url }}{{ site.baseurl }}/membership/member-login/) with their username and password.
 
 Please send articles or items for inclusion to the [Crystallography News Editor]({{ "/about/contact/#crystallography-news-editor" | relative_url }}). Items may be technical articles, news about crystallographers (e.g. awards, honours, retirement etc.), reports on past meetings of interest to crystallographers, notices of future meetings, historical reminiscences, letters to the editor, book, hardware or software reviews.
 
