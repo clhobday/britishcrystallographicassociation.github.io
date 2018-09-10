@@ -11,7 +11,7 @@
 
 ## Renew membership or update your details
 
-Existing members can use the [on-line form]({{ site.url }}/membership/members-area/) or contact the [administrative office]({{ site.url }}/about/contact/) directly to renew their membership or change address, email, title, etc.
+Existing members can use the [on-line form]({{ site.url }}/membership/member-login/) or contact the [administrative office]({{ site.url }}/about/contact/) directly to renew their membership or change address, email, title, etc.
 
  
 ## New membership
