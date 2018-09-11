@@ -4,6 +4,9 @@
    permalink: /about/
    sidebar:
      nav: "about"
+   header:
+     image: /assets/images/logo/header.jpg
+     image_description: "BCA header logo"
 ---
 
 The British Crystallographic Association, formed in 1982 is the 
