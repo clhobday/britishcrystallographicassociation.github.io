@@ -2,15 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Membership"
-    url: /membership/
   - title: "News"
     url: /crystallography-news/
-  - title: "Prizes"
+  - title: "Prizes and Bursaries"
     url: /prizes/
   - title: "Education"
     url: /education/
-  - title: "Spring meetings"
+  - title: "Meetings"
     url: /spring-meetings/
 
 
@@ -29,8 +27,6 @@ about:
     url: /about/previous-councils/
   - title: "BCA logo"
     url: /about/logo/
-
-membership:
   - title: "Membership"
     url: /membership/
   - title: "Corporate membership"

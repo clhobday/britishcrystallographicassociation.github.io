@@ -5,6 +5,8 @@
     {% for s in page.sidebar %}
       {% if s.shuffle %}
         <div class="shufflediv">
+      {% else %}
+        <div class="noshuffle">
       {% endif %}
       {% if s.image %} 
         {% if s.url %}
@@ -23,9 +25,7 @@
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      {% if s.shuffle %}
        </div>
-      {% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
