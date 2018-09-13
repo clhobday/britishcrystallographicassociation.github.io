@@ -3,7 +3,7 @@
    layout: single
    permalink: /membership/founders/
    sidebar:
-     nav: "membership"
+     nav: "about"
 ---
 
 ### People involved in the founding of the British Crystallographic Association

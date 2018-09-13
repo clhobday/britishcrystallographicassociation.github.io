@@ -3,9 +3,10 @@
    layout: single
    permalink: /membership/corporate/
    sidebar:
-     nav: "membership"
+    nav: "about"
 ---
 
+<script src="{{ base.url | prepend: site.url }}/assets/js/shuffle.js"></script>
 
 The BCA values its close ties with companies and organisations involved with crystallography. To enhance these contacts, the BCA offers Corporate Membership. Corporate Membership is available on an annual basis, and includes the following benefits:
 

@@ -3,7 +3,7 @@
    layout: single
    permalink: /membership/honorary/
    sidebar:
-     nav: "membership"
+     nav: "about"
 ---
 
 
