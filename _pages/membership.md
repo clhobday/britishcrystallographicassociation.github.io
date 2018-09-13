@@ -3,7 +3,7 @@
    layout: single
    permalink: /membership/
    sidebar:
-     nav: "membership"
+     nav: "about"
    toc: true
    toc_icon: "cog"
 ---

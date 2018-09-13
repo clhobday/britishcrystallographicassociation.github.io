@@ -24,6 +24,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: britcryst
 github_username:  BritishCrystallographicAssociation
 
+author:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/britcryst"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/britishcrystallography"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BritishCrystallographicAssociation"
+
+
 social:
   type: Organization
   name: British Crystallographic Association

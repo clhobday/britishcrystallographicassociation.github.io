@@ -3,7 +3,7 @@
    layout: single
    permalink: /membership/member-login/
    sidebar:
-     nav: "membership"
+     nav: "about"
 ---
 
 
