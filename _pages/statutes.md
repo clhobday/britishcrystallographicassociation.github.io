@@ -6,6 +6,7 @@
      nav: "about"
    toc: true
    toc_icon: "cog"
+   toc_sticky: true
 ---
 
 
