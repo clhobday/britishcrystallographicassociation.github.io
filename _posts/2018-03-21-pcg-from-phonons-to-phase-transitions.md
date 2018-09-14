@@ -16,7 +16,7 @@ categories: pcg-scmp news education
 -    Modulated Crystal Structures – John Claridge, Liverpool
 
 Registration is now open until the 12th of April 2018:
-[www.pcgschool2018.wordpress.com](www.pcgschool2018.wordpress.com)
+[www.pcgschool2018.wordpress.com](http://www.pcgschool2018.wordpress.com/)
 
 
 
