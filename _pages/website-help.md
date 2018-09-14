@@ -171,6 +171,15 @@ richard@flip:~$ git push origin edit_a_file
 
 9. ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/pages/merge-pull-req.png){: .align-right}{:width="450px"} If you are also responsible for the master repository (probably), then login to its github account, and you will find the Pull Request waiting for review.
 
+10. As soon as your pull request (or anyone elses) is accepted, your personal local and remote master branches are behind the repository (upstream) master branch. Note that syncing is done *via* your local machine - there is no way to move changes directly into a forked copy on github.
+To sync everything up, type the following:
+
+```console
+richard@flip:~$ git checkout master              # switch local copy back to master branch
+richard@flip:~$ git fetch --all                  # get latest info on all remote repositories
+richard@flip:~$ git merge upstream/master master # merge upstream master into local master
+richard@flip:~$ git push origin                  # push merged changes back to your forked repo.
+```
 
 
 ## Workflow example add a file
