@@ -182,7 +182,5 @@ richard@flip:~$ git push origin                  # push merged changes back to y
 ```
 
 
-## Workflow example add a file
-
 
 
