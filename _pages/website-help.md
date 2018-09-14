@@ -9,7 +9,7 @@
 
 ## Building the BCA Website
 
-The BCA website is build using Jekyll (a static site builder) and hosted on Github. It's static, so it could 
+The BCA website is built using Jekyll (a static site builder) and hosted on Github. It's static, so it could 
 be hosted anywhere that you can upload files, however Github has a feature called github-pages which can 
 automatically build static sites using Jekyll (using a limited number of themes and plugins).
 
@@ -165,9 +165,22 @@ richard@flip:~$ git commit -m "Fix Richard's phone number"
 ```console
 richard@flip:~$ git push origin edit_a_file
 ```
-7. Go to your github account.
+7. ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/pages/branch-pushed.png){: .align-right}{:width="450px"} Go to your forked copy of the repository on your github account. The new branch, which you just pushed there should be highlighted. Click the green button 'Compare & pull request'.
 
-## Workflow example add a file
+8. ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/pages/pull-req.png){: .align-right}{:width="450px"} On the pull request page you can add a message to the maintainer of the main repository explaining what the changes on the branch are for (and perhaps whether they address any open issues highlighted on the github repository pages). When you click 'Create pull request' a message is sent to the maintainer and they will review your changes and possibly merge them in. Alternatively they may request further changes to the branch before it is accepted, in these case you can keep working on your branch and push is at a later date.
+
+9. ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/pages/merge-pull-req.png){: .align-right}{:width="450px"} If you are also responsible for the master repository (probably), then login to its github account, and you will find the Pull Request waiting for review.
+
+10. As soon as your pull request (or anyone elses) is accepted, your personal local and remote master branches are behind the repository (upstream) master branch. Note that syncing is done *via* your local machine - there is no way to move changes directly into a forked copy on github.
+To sync everything up, type the following:
+
+```console
+richard@flip:~$ git checkout master              # switch local copy back to master branch
+richard@flip:~$ git fetch --all                  # get latest info on all remote repositories
+richard@flip:~$ git merge upstream/master master # merge upstream master into local master
+richard@flip:~$ git push origin                  # push merged changes back to your forked repo.
+```
+
 
 
 
