@@ -9,9 +9,10 @@
 
 Honorary Life Membership is the BCA’s highest membership accolade. The award is made in recognition of significant contributions by the recipient to crystallographic science and to the work of the BCA. Recommendations of individuals deserving Honorary Life Membership may be made on an annual basis for consideration by Council. The President welcomes suggestions of esteemed colleagues to receive this award by the end of August each year, along with a short case for support of not more than 400 words. It should be noted that new Honorary Life memberships are not necessarily awarded every year and Council normally accord Honorary Membership to a maximum of two people in one calendar year.
 
-As of 2018 current Honorary members are listed below. Date of award in parenthesis.
+As of 2019 current Honorary members are listed below. Date of award in parenthesis.
 
 -    Professor Paul Barnes (2005)
+-    Professor Sandy Blake (2019)
 -    Dr Jane Brown (2002)
 -    Professor Bill Clegg (2010)
 -    Professor Bill David (2002)
